@@ -1,0 +1,19 @@
+{
+  "name": "game-tenzor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.5.2",
+    "socket.io": "^0.9.16"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-csso": "^0.2.8",
+    "gulp-htmlmin": "^0.1.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.0"
+  }
+}
